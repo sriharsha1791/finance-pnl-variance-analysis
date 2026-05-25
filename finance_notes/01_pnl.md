@@ -6,19 +6,13 @@ P&L (Profit and Loss Statement) shows how a company earns money and where it spe
 
 Flow:
 
-Revenue
-- COGS
+Revenue- COGS
 = Gross Profit
 
-Gross Profit
-- Operating Expenses
+Gross Profit- Operating Expenses
 = EBITDA
 
-EBITDA
-- Interest
-- Taxes
-- Depreciation
-- Amortization
+EBITDA- Interest- Taxes- Depreciation- Amortization
 = Net Profit
 
 ---
