@@ -123,11 +123,7 @@ Used By:
 Formula:
 
 Net Profit =
-EBITDA
-- Interest
-- Taxes
-- Depreciation
-- Amortization
+EBITDA- Interest- Taxes- Depreciation- Amortization
 
 Meaning:
 
