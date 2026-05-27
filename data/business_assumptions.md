@@ -189,3 +189,112 @@ Root Cause
 Provide:
 
 Recommendation
+
+
+
+
+## Seasonality Pattern
+
+Q1
+
+Weak
+
+January:
+
+Slow start
+
+Budget approvals
+
+Lower growth
+
+February:
+
+Recovery
+
+March:
+
+Stable
+
+---
+
+Q2
+
+Normal Growth
+
+April:
+
+Improvement
+
+May:
+
+Stable
+
+June:
+
+Growth
+
+---
+
+Q3
+
+Expansion
+
+July:
+
+Customer growth
+
+August:
+
+Upsell activity
+
+September:
+
+Enterprise pipeline builds
+
+---
+
+Q4
+
+Strongest Quarter
+
+October:
+
+Enterprise deals
+
+November:
+
+Budget utilization
+
+December:
+
+Highest revenue
+
+Renewals
+
+Contract closures
+
+Highest expected performance
+
+---
+
+Quarter Pattern
+
+Q1
+
+↓
+
+Q2
+
+↓
+
+Q3
+
+↑
+
+Q4
+
+↑↑
+
+Expected:
+
+Q4 > Q3 > Q2 > Q1
